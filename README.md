@@ -32,4 +32,4 @@ Restopin extends its heartfelt gratitude to the following individuals whose cont
 
 ---
 
-*RestoPin is developed to fulfill the requirements of Application Development & Emerging Technologies (CS--) at FEU Alabang. The project was completed during the 1st semester of A.Y. 2022-2023.*
+*RestoPin is developed to fulfill the requirements of Application Development & Emerging Technologies (CCS0043LL) at FEU Alabang. The project was completed during the 1st semester of A.Y. 2022-2023.*
