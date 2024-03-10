@@ -20,30 +20,16 @@ Restopin revolutionizes the dining experience by seamlessly integrating the conv
 
 To experience the culinary delights offered by Restopin, simply visit our online platform and browse through our extensive menu. Select your desired dishes, customize your order as needed, and proceed to checkout to complete your transaction securely and conveniently.
 
-## Installation
 
-```bash
-git clone https://github.com/yourusername/restopin.git
-cd restopin
-# Follow instructions for setting up the environment and configuring the SQL database
-```
-
-## Contributing
-
-Contributions to Restopin are welcomed and encouraged! Whether you're interested in refining existing features, implementing new functionalities, or enhancing the user experience, your contributions will play a vital role in shaping the future of our platform. Please refer to the [contribution guidelines](CONTRIBUTING.md) for detailed instructions on how to contribute effectively.
-
-
-
-## Acknowledgements
+## The Team
 
 Restopin extends its heartfelt gratitude to the following individuals whose contributions and support have been instrumental in bringing this project to fruition:
 
-- [List of contributors]
-
-## Contact
-
-For any inquiries, feedback, or support requests, please feel free to reach out to us at [contact@example.com].
+- Jerome Saulo
+- Jan Airick Indefonso
+- Geronimo Dayos III
+- Francesca Linda Ramos
 
 ---
 
-*Restopin - Where the flavors of the Philippines come to life.*
+*RestoPin is developed to fulfill the requirements of Application Development & Emerging Technologies (CS--) at FEU Alabang. The project was completed during the 1st semester of A.Y. 2022-2023.*
