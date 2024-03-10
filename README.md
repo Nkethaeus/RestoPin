@@ -25,4 +25,4 @@ To access the website, ensure that XAMPP is properly installed and the `restaura
 
 ---
 
-*RestoPin is developed to fulfill the requirements of Application Development & Emerging Technologies (CCS0043LL) at FEU Alabang. The project was completed during the 1st semester of A.Y. 2022-2023.*
+*RestoPin was created to fulfill the requirements of Application Development & Emerging Technologies (CCS0043LL) at FEU Alabang. The project was completed during the 1st semester of A.Y. 2022-2023.*
