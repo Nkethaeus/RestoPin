@@ -14,7 +14,7 @@ This project was developed as a part of a university requirement, providing a pr
 
 ## Usage
 
-To use visit the website, you need to have XAMPP already set up and uploaded the `restaurant` database to phpMyAdmin. After that, simply open your browser and type `localhost/RestoPin/`.
+To use visit the website, you need to have XAMPP already set up and imported the `restaurant` SQL database to phpMyAdmin. After that, simply open your browser and type `localhost/RestoPin/` in the address bar.
 
 ## Group Members
 
