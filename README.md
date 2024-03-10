@@ -4,7 +4,7 @@ RestoPin is an online platform tailored for ordering authentic Filipino cuisine 
 
 ## Overview
 
-This project was developed as a part of a university requirement, providing a practical application of web development skills while implementing database administration.
+This project was developed as a part of a university requirement, providing a practical application of web development skills as well as implementing database administration.
 
 ## Features
 
