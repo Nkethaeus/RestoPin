@@ -32,9 +32,7 @@ cd restopin
 
 Contributions to Restopin are welcomed and encouraged! Whether you're interested in refining existing features, implementing new functionalities, or enhancing the user experience, your contributions will play a vital role in shaping the future of our platform. Please refer to the [contribution guidelines](CONTRIBUTING.md) for detailed instructions on how to contribute effectively.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
