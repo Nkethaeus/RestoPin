@@ -1,6 +1,6 @@
 # Restopin
 
-Restopin is an online platform tailored for ordering authentic Filipino cuisine from a conceptual restaurant bearing the same name. Designed using a blend of HTML, CSS, PHP for the front-end, a little bit of JavaScript for interactivity, and an SQL database for accounts management. It is built for a university project requirement.
+Restopin is an online platform tailored for ordering authentic Filipino cuisine from a conceptual restaurant bearing the same name. Designed using a blend of HTML, CSS, PHP for the front-end, a bit of JavaScript for interactivity, and an SQL database for accounts management. It is built for a university project requirement.
 
 ## Overview
 
