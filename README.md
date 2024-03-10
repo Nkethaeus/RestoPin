@@ -4,13 +4,13 @@ RestoPin is an online platform tailored for ordering authentic Filipino cuisine 
 
 ## Overview
 
-Restopin revolutionizes the dining experience by seamlessly integrating the convenience of online ordering with the rich flavors and cultural heritage of Filipino cuisine. From savory adobo to delectable halo-halo, our platform offers a diverse array of dishes to tantalize the taste buds of discerning food enthusiasts.
+This project was developed as a part of a university requirement, providing a practical application of web development skills while implementing database administration.
 
 ## Features
 
 - **User-Friendly Interface**: Navigate effortlessly through our intuitive interface, designed to streamline the ordering process and enhance user satisfaction.
   
-- **Restaurant Management for Managers**: Easily manage your restaurant through the manager's portal. You can add, remove, edit your restaurant's menu, track your customer's orders, and even manage another restaurant.
+- **Restaurant Management for Managers**: As a manager, easily manage your restaurant through the manager's portal. You can add, remove, edit your restaurant's menu, track your customer's orders, and even manage another restaurant.
 
 ## Group Members
 
