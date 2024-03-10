@@ -1,6 +1,6 @@
-# Restopin
+# RestoPin
 
-Restopin is an online platform tailored for ordering authentic Filipino cuisine from a conceptual restaurant bearing the same name. Designed using a blend of HTML, CSS, PHP for the front-end, a bit of JavaScript for interactivity, and an SQL database for accounts management. It is built for a university project requirement.
+RestoPin is an online platform tailored for ordering authentic Filipino cuisine from a conceptual restaurant bearing the same name. It is designed using a blend of HTML, CSS, PHP for the front-end, a bit of JavaScript for interactivity, and an SQL database for accounts management. The name "RestoPin" is a play-on-words for "Restawrang Pinoy," combining "resto" (from "restaw-; pronouced as "resto") with "Pinoy" (slang for Filipino), reflecting the project's focus on Filipino cuisine and dining experiences.
 
 ## Overview
 
