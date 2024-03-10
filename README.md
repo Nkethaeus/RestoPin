@@ -12,6 +12,10 @@ This project was developed as a part of a university requirement, providing a pr
   
 - **Restaurant Management for Managers**: As a manager, easily manage your restaurant through the manager's portal. You can add, remove, edit your restaurant's menu, track your customer's orders, and even manage another restaurant.
 
+## Usage
+
+To use visit the website, you need to have XAMPP already set up and uploaded the `restaurant` database to phpMyAdmin. After that, simply open your browser and type `localhost/RestoPin/`.
+
 ## Group Members
 
 - Jerome Saulo
