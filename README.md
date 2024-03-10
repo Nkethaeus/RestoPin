@@ -10,20 +10,9 @@ Restopin revolutionizes the dining experience by seamlessly integrating the conv
 
 - **User-Friendly Interface**: Navigate effortlessly through our intuitive interface, designed to streamline the ordering process and enhance user satisfaction.
   
-- **Secure Payment Gateway**: Rest assured that your transactions are safeguarded by robust security measures, ensuring peace of mind with every purchase.
-  
-- **Dynamic Menu Selection**: Browse through our dynamic menu, featuring a curated selection of authentic Filipino dishes prepared with the finest ingredients and culinary expertise.
-  
-- **Order Tracking**: Stay informed every step of the way with real-time order tracking, allowing you to monitor the status of your order from preparation to delivery.
+- **Restaurant Management for Managers**: Easily manage your restaurant through the manager's portal. You can add, remove, edit your restaurant's menu, track your customer's orders, and even manage another restaurant.
 
-## Usage
-
-To experience the culinary delights offered by Restopin, simply visit our online platform and browse through our extensive menu. Select your desired dishes, customize your order as needed, and proceed to checkout to complete your transaction securely and conveniently.
-
-
-## The Team
-
-Restopin extends its heartfelt gratitude to the following individuals whose contributions and support have been instrumental in bringing this project to fruition:
+## Group Members
 
 - Jerome Saulo
 - Jan Airick Indefonso
