@@ -6,6 +6,8 @@ SET time_zone = "+08:00";
 -- Database: `RestoPin`
 --
 
+CREATE DATABASE RestoPin;
+
 -- --------------------------------------------------------
 
 --
