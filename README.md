@@ -14,7 +14,7 @@ This project was developed as a part of a university requirement, providing a pr
 
 ## Usage
 
-To access the website, ensure that XAMPP is properly installed and the `restaurant` SQL database is imported into phpMyAdmin. Then, open your web browser and navigate to `localhost/RestoPin/` in the address bar.
+To access the website, ensure that XAMPP is properly installed and the `RestoPin` SQL database is imported into phpMyAdmin. Then, open your web browser and navigate to `localhost/RestoPin/` in the address bar.
 
 ## Group Members
 
