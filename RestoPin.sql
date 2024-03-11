@@ -6,7 +6,6 @@ SET time_zone = "+08:00";
 -- Database: `RestoPin`
 --
 
-CREATE DATABASE RestoPin;
 
 USE RestoPin;
 
@@ -81,7 +80,7 @@ CREATE TABLE `food` (
 --
 
 INSERT INTO `food` (`F_ID`, `name`, `price`, `description`, `R_ID`, `images_path`, `options`) VALUES
-(58, 'Adobo', 95, 'Adobo', 1, 'images/Adobo.jpg', 'ENABLE')
+(58, 'Adobo', 95, 'Adobo', 1, 'images/Adobo.jpg', 'ENABLE'),
 (59, 'Afritada', 100, 'Afritada', 2, 'images/Afritada.jpg', 'ENABLE'),
 (60, 'Buko Salad', 150, 'Buko Salad', 3, 'images/Buko Salad.jpg', 'ENABLE'),
 (61, 'Bulalo',250, 'Bulalo', 1, 'images/Bulalo.jpg', 'ENABLE'),
@@ -100,18 +99,18 @@ INSERT INTO `food` (`F_ID`, `name`, `price`, `description`, `R_ID`, `images_path
 (76, 'Leche Flan', 275, 'Leche Flan', 2, 'images/Leche Flan.jpg', 'ENABLE'),
 (77, 'Lechon Kawali', 200, 'Lechon Kawali', 2, 'images/Lechon Kawali.jpg', 'ENABLE'),
 (78, 'Mais Con Yelo', 90, 'Mais Con Yelo', 2, 'images/Mais Con Yelo.jpg', 'ENABLE'),
-(79, 'Maja Blanca', 120, 'Maja Blanca', 2, 'images/Maja Blanca.jpg', 'ENABLE');
-(80, 'Menudo', 150, 'Menudo', 2, 'images/Menudo.jpg', 'ENABLE');
-(81, 'Orange Juice', 120, 'Orange Juice', 2, 'images/Orange Juice.jpg', 'ENABLE');
-(82, 'Pancit Canton Guisado', 150, 'Pancit Canton Guisado', 2, 'images/Pancit Canton Guisado.jpg', 'ENABLE');
-(83, 'Plain Rice Platter', 300, 'Plain Rice Platter', 2, 'images/Plain Rice Platter.jpg', 'ENABLE');
-(84, 'Roasted Beef', 125, 'Roasted Beef', 2, 'images/Roasted Beef.jpg', 'ENABLE');
-(85, 'Sinangag Platter', 80, 'Sinangag Platter', 2, 'images/Sinangag Platter.jpg', 'ENABLE');
-(86, 'Sinigang', 130, 'Sinigang', 2, 'images/Sinigang.jpg', 'ENABLE');
-(87, 'Sisig Rice Platter', 90, 'Sisig Rice Platter', 2, 'images/Sisig Rice Platter.jpg', 'ENABLE');
-(88, 'Sisig', 75, 'Sisig', 2, 'images/Sisig.jpg', 'ENABLE');
-(89, 'Tinola', 120, 'Tinola', 2, 'images/Tinola.jpg', 'ENABLE');
-(90, 'Turon', 15, 'Turon', 2, 'images/Turon.jpg', 'ENABLE');
+(79, 'Maja Blanca', 120, 'Maja Blanca', 2, 'images/Maja Blanca.jpg', 'ENABLE'),
+(80, 'Menudo', 150, 'Menudo', 2, 'images/Menudo.jpg', 'ENABLE'),
+(81, 'Orange Juice', 120, 'Orange Juice', 2, 'images/Orange Juice.jpg', 'ENABLE'),
+(82, 'Pancit Canton Guisado', 150, 'Pancit Canton Guisado', 2, 'images/Pancit Canton Guisado.jpg', 'ENABLE'),
+(83, 'Plain Rice Platter', 300, 'Plain Rice Platter', 2, 'images/Plain Rice Platter.jpg', 'ENABLE'),
+(84, 'Roasted Beef', 125, 'Roasted Beef', 2, 'images/Roasted Beef.jpg', 'ENABLE'),
+(85, 'Sinangag Platter', 80, 'Sinangag Platter', 2, 'images/Sinangag Platter.jpg', 'ENABLE'),
+(86, 'Sinigang', 130, 'Sinigang', 2, 'images/Sinigang.jpg', 'ENABLE'),
+(87, 'Sisig Rice Platter', 90, 'Sisig Rice Platter', 2, 'images/Sisig Rice Platter.jpg', 'ENABLE'),
+(88, 'Sisig', 75, 'Sisig', 2, 'images/Sisig.jpg', 'ENABLE'),
+(89, 'Tinola', 120, 'Tinola', 2, 'images/Tinola.jpg', 'ENABLE'),
+(90, 'Turon', 15, 'Turon', 2, 'images/Turon.jpg', 'ENABLE'),
 (91, 'Water', 20, 'Waater', 2, 'images/Water.jpg', 'ENABLE');
 
 -- --------------------------------------------------------
