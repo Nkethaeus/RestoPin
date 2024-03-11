@@ -124,10 +124,10 @@
 							</a>
 							<ul class="dropdown-menu">
 								<li>
-									<a href="customersignup.php"> User Sign-up</a>
+									<a href="customersignup.html"> User Sign-up</a>
 								</li>
 								<li>
-									<a href="managersignup.php"> Manager Sign-up</a>
+									<a href="managersignup.html"> Manager Sign-up</a>
 								</li>
 							</ul>
 						</li>
