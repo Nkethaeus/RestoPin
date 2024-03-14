@@ -1,6 +1,8 @@
 # RestoPin
 
-![1](https://github.com/DecPotein/RestoPin/assets/81295133/0f3bc371-66dd-475b-b8f2-56bd114878a4)
+<p align="center">
+  <img src="https://github.com/DecPotein/RestoPin/assets/81295133/019fed7d-3799-4be8-b7e2-b7a2f036f647" alt="RestoPin banner"/>
+</p>
 
 RestoPin is an online platform tailored for ordering authentic Filipino cuisine from a conceptual restaurant bearing the same name. It is designed using a blend of HTML, CSS, PHP for the front-end, a bit of JavaScript for interactivity, and an SQL database for accounts management. The name "RestoPin" is a play-on-words for "Restawrang Pinoy," combining "resto" (from "restaw-; pronouced as "resto") with "Pinoy" (slang for Filipino), reflecting the project's focus on Filipino cuisine and dining experiences.
 
